@@ -25,3 +25,4 @@ class Direccion(models.Model):
 class Libro(models.Model):
     id_biblioteca = models.ForeignKey(Biblioteca, on_delete=models.CASCADE)
     genero = models.CharField(max_length=50, null=False)
+    
