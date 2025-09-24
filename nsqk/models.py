@@ -17,6 +17,7 @@ class Autor(models.Model):
 class Comuna(models.Model):
     codigo = models.CharField(max_length=5, null=False)
     comuna = models.CharField(max_length=50, null=False)
+    update_at = models.DateTimeField(auto_now=True)
 
 class Direccion(models.Model):
     id_comuna = models.ForeignKey(Comuna, on_delete=models.CASCADE)
