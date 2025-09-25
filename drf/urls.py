@@ -21,5 +21,6 @@ from nsqk import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('nsqk/', include('nsqk.urls')),
-    path('nsqk/', views.pagina_inicio)
+    path('',views.pagina_inicio, name='home')
+    # path('nsqk/', views.pagina_inicio)
 ]

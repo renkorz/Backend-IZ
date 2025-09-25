@@ -15,7 +15,7 @@ from .serializers import (
 # Create your views here.
 
 def pagina_inicio(request):
-    return render(request, 'nsqk/inicio.html')
+    return render(request, 'home/inicio.html')
 
 class NacionalidadViewSet(viewsets.ModelViewSet):
     queryset = Nacionalidad.objects.all()
