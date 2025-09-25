@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'drf.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': config('ENGINE'),
-        'NAME': ('NAME'),
-        'USER': ('USER'),
-        'PASSWORD': ('PASSWORD'),
-        'HOST': ('HOST'),
-        'PORT': ('PORT'),
+        'NAME': config('NAME'),
+        'USER': config('USER'),
+        'PASSWORD': config('PASSWORD'),
+        'HOST': config('HOST'),
+        'PORT': config('PORT'),
     }
 }
 
