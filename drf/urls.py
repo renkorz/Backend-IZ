@@ -16,10 +16,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
-from django.views.generic import RedirectView
+from nsqk import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('nsqk.urls')),
-    path('', RedirectView.as_view(url='/api', permanent=True))
+    path('nsqk/', include('nsqk.urls')),
+    path('',views.pagina_inicio, name='home')
+    # path('nsqk/', views.pagina_inicio)
 ]

@@ -1,0 +1,3362 @@
+[
+    {
+        "model": "nsqk.comuna",
+        "pk": 1,
+        "fields": {
+            "codigo": "01101",
+            "comuna": "Iquique",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 2,
+        "fields": {
+            "codigo": "01107",
+            "comuna": "Alto Hospicio",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 3,
+        "fields": {
+            "codigo": "01401",
+            "comuna": "Pozo Almonte",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 4,
+        "fields": {
+            "codigo": "01402",
+            "comuna": "Camiña",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 5,
+        "fields": {
+            "codigo": "01403",
+            "comuna": "Colchane",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 6,
+        "fields": {
+            "codigo": "01404",
+            "comuna": "Huara",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 7,
+        "fields": {
+            "codigo": "01405",
+            "comuna": "Pica",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 8,
+        "fields": {
+            "codigo": "02101",
+            "comuna": "Antofagasta",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 9,
+        "fields": {
+            "codigo": "02102",
+            "comuna": "Mejillones",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 10,
+        "fields": {
+            "codigo": "02103",
+            "comuna": "Sierra Gorda",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 11,
+        "fields": {
+            "codigo": "02104",
+            "comuna": "Taltal",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 12,
+        "fields": {
+            "codigo": "02201",
+            "comuna": "Calama",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 13,
+        "fields": {
+            "codigo": "02202",
+            "comuna": "Ollagüe",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 14,
+        "fields": {
+            "codigo": "02203",
+            "comuna": "San Pedro de Atacama",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 15,
+        "fields": {
+            "codigo": "02301",
+            "comuna": "Tocopilla",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 16,
+        "fields": {
+            "codigo": "02302",
+            "comuna": "María Elena",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 17,
+        "fields": {
+            "codigo": "03101",
+            "comuna": "Copiapó",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 18,
+        "fields": {
+            "codigo": "03102",
+            "comuna": "Caldera",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 19,
+        "fields": {
+            "codigo": "03103",
+            "comuna": "Tierra Amarilla",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 20,
+        "fields": {
+            "codigo": "03201",
+            "comuna": "Chañaral",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 21,
+        "fields": {
+            "codigo": "03202",
+            "comuna": "Diego de Almagro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 22,
+        "fields": {
+            "codigo": "03301",
+            "comuna": "Vallenar",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 23,
+        "fields": {
+            "codigo": "03302",
+            "comuna": "Alto del Carmen",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 24,
+        "fields": {
+            "codigo": "03303",
+            "comuna": "Freirina",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 25,
+        "fields": {
+            "codigo": "03304",
+            "comuna": "Huasco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 26,
+        "fields": {
+            "codigo": "04101",
+            "comuna": "La Serena",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 27,
+        "fields": {
+            "codigo": "04102",
+            "comuna": "Coquimbo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 28,
+        "fields": {
+            "codigo": "04103",
+            "comuna": "Andacollo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 29,
+        "fields": {
+            "codigo": "04104",
+            "comuna": "La Higuera",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 30,
+        "fields": {
+            "codigo": "04105",
+            "comuna": "Paiguano",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 31,
+        "fields": {
+            "codigo": "04106",
+            "comuna": "Vicuña",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 32,
+        "fields": {
+            "codigo": "04201",
+            "comuna": "Illapel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 33,
+        "fields": {
+            "codigo": "04202",
+            "comuna": "Canela",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 34,
+        "fields": {
+            "codigo": "04203",
+            "comuna": "Los Vilos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 35,
+        "fields": {
+            "codigo": "04204",
+            "comuna": "Salamanca",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 36,
+        "fields": {
+            "codigo": "04301",
+            "comuna": "Ovalle",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 37,
+        "fields": {
+            "codigo": "04302",
+            "comuna": "Combarbalá",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 38,
+        "fields": {
+            "codigo": "04303",
+            "comuna": "Monte Patria",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 39,
+        "fields": {
+            "codigo": "04304",
+            "comuna": "Punitaqui",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 40,
+        "fields": {
+            "codigo": "04305",
+            "comuna": "Río Hurtado",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 41,
+        "fields": {
+            "codigo": "05101",
+            "comuna": "Valparaíso",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 42,
+        "fields": {
+            "codigo": "05102",
+            "comuna": "Casablanca",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 43,
+        "fields": {
+            "codigo": "05103",
+            "comuna": "Concón",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 44,
+        "fields": {
+            "codigo": "05104",
+            "comuna": "Juan Fernández",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 45,
+        "fields": {
+            "codigo": "05105",
+            "comuna": "Puchuncaví",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 46,
+        "fields": {
+            "codigo": "05107",
+            "comuna": "Quintero",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 47,
+        "fields": {
+            "codigo": "05108",
+            "comuna": "Viña del Mar",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 48,
+        "fields": {
+            "codigo": "05201",
+            "comuna": "Isla de Pascua",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 49,
+        "fields": {
+            "codigo": "05301",
+            "comuna": "Los Andes",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 50,
+        "fields": {
+            "codigo": "05302",
+            "comuna": "Calle Larga",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 51,
+        "fields": {
+            "codigo": "05303",
+            "comuna": "Catemu",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 52,
+        "fields": {
+            "codigo": "05304",
+            "comuna": "Llay-Llay",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 53,
+        "fields": {
+            "codigo": "05305",
+            "comuna": "Olmué",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 54,
+        "fields": {
+            "codigo": "05306",
+            "comuna": "Panquehue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 55,
+        "fields": {
+            "codigo": "05307",
+            "comuna": "Putaendo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 56,
+        "fields": {
+            "codigo": "05308",
+            "comuna": "Quillota",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 57,
+        "fields": {
+            "codigo": "05309",
+            "comuna": "Rinconada",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 58,
+        "fields": {
+            "codigo": "05310",
+            "comuna": "San Antonio",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 59,
+        "fields": {
+            "codigo": "05311",
+            "comuna": "San Esteban",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 60,
+        "fields": {
+            "codigo": "05312",
+            "comuna": "San Felipe",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 61,
+        "fields": {
+            "codigo": "05313",
+            "comuna": "Santa María",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 62,
+        "fields": {
+            "codigo": "05314",
+            "comuna": "Santo Domingo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 63,
+        "fields": {
+            "codigo": "05315",
+            "comuna": "Villa Alemana",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 64,
+        "fields": {
+            "codigo": "05316",
+            "comuna": "Zapallar",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 65,
+        "fields": {
+            "codigo": "05317",
+            "comuna": "Limache",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 66,
+        "fields": {
+            "codigo": "05401",
+            "comuna": "Quilpué",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 67,
+        "fields": {
+            "codigo": "05501",
+            "comuna": "Petorca",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 68,
+        "fields": {
+            "codigo": "05502",
+            "comuna": "Cabildo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 69,
+        "fields": {
+            "codigo": "05503",
+            "comuna": "La Ligua",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 70,
+        "fields": {
+            "codigo": "05504",
+            "comuna": "Nogales",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 71,
+        "fields": {
+            "codigo": "05505",
+            "comuna": "Papudo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 72,
+        "fields": {
+            "codigo": "05601",
+            "comuna": "San Antonio",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 73,
+        "fields": {
+            "codigo": "05602",
+            "comuna": "Algarrobo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 74,
+        "fields": {
+            "codigo": "05603",
+            "comuna": "Cartagena",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 75,
+        "fields": {
+            "codigo": "05604",
+            "comuna": "El Quisco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 76,
+        "fields": {
+            "codigo": "05605",
+            "comuna": "El Tabo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 77,
+        "fields": {
+            "codigo": "05606",
+            "comuna": "Santo Domingo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 78,
+        "fields": {
+            "codigo": "06101",
+            "comuna": "Rancagua",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 79,
+        "fields": {
+            "codigo": "06102",
+            "comuna": "Codegua",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 80,
+        "fields": {
+            "codigo": "06103",
+            "comuna": "Coinco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 81,
+        "fields": {
+            "codigo": "06104",
+            "comuna": "Coltauco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 82,
+        "fields": {
+            "codigo": "06105",
+            "comuna": "Doñihue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 83,
+        "fields": {
+            "codigo": "06106",
+            "comuna": "Graneros",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 84,
+        "fields": {
+            "codigo": "06107",
+            "comuna": "Las Cabras",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 85,
+        "fields": {
+            "codigo": "06108",
+            "comuna": "Machalí",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 86,
+        "fields": {
+            "codigo": "06109",
+            "comuna": "Malloa",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 87,
+        "fields": {
+            "codigo": "06110",
+            "comuna": "Mostazal",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 88,
+        "fields": {
+            "codigo": "06111",
+            "comuna": "Olivar",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 89,
+        "fields": {
+            "codigo": "06112",
+            "comuna": "Peumo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 90,
+        "fields": {
+            "codigo": "06113",
+            "comuna": "Pichidegua",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 91,
+        "fields": {
+            "codigo": "06114",
+            "comuna": "Quinta de Tilcoco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 92,
+        "fields": {
+            "codigo": "06115",
+            "comuna": "Rengo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 93,
+        "fields": {
+            "codigo": "06116",
+            "comuna": "Requínoa",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 94,
+        "fields": {
+            "codigo": "06117",
+            "comuna": "San Vicente",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 95,
+        "fields": {
+            "codigo": "06201",
+            "comuna": "San Fernando",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 96,
+        "fields": {
+            "codigo": "06202",
+            "comuna": "Chépica",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 97,
+        "fields": {
+            "codigo": "06203",
+            "comuna": "Chimbarongo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 98,
+        "fields": {
+            "codigo": "06204",
+            "comuna": "La Estrella",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 99,
+        "fields": {
+            "codigo": "06205",
+            "comuna": "Litueche",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 100,
+        "fields": {
+            "codigo": "06206",
+            "comuna": "Lolol",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 101,
+        "fields": {
+            "codigo": "06207",
+            "comuna": "Nancagua",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 102,
+        "fields": {
+            "codigo": "06208",
+            "comuna": "Navidad",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 103,
+        "fields": {
+            "codigo": "06209",
+            "comuna": "Palmilla",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 104,
+        "fields": {
+            "codigo": "06210",
+            "comuna": "Peralillo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 105,
+        "fields": {
+            "codigo": "06211",
+            "comuna": "Pichilemu",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 106,
+        "fields": {
+            "codigo": "06212",
+            "comuna": "Placilla",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 107,
+        "fields": {
+            "codigo": "06213",
+            "comuna": "Pumanque",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 108,
+        "fields": {
+            "codigo": "06214",
+            "comuna": "Paredones",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 109,
+        "fields": {
+            "codigo": "06301",
+            "comuna": "Santa Cruz",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 110,
+        "fields": {
+            "codigo": "07101",
+            "comuna": "Talca",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 111,
+        "fields": {
+            "codigo": "07102",
+            "comuna": "Constitución",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 112,
+        "fields": {
+            "codigo": "07103",
+            "comuna": "Curepto",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 113,
+        "fields": {
+            "codigo": "07104",
+            "comuna": "Empedrado",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 114,
+        "fields": {
+            "codigo": "07105",
+            "comuna": "Maule",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 115,
+        "fields": {
+            "codigo": "07106",
+            "comuna": "Pelarco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 116,
+        "fields": {
+            "codigo": "07107",
+            "comuna": "Pencahue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 117,
+        "fields": {
+            "codigo": "07108",
+            "comuna": "Río Claro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 118,
+        "fields": {
+            "codigo": "07109",
+            "comuna": "San Clemente",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 119,
+        "fields": {
+            "codigo": "07110",
+            "comuna": "San Rafael",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 120,
+        "fields": {
+            "codigo": "07201",
+            "comuna": "Cauquenes",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 121,
+        "fields": {
+            "codigo": "07202",
+            "comuna": "Chanco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 122,
+        "fields": {
+            "codigo": "07203",
+            "comuna": "Pelluhue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 123,
+        "fields": {
+            "codigo": "07301",
+            "comuna": "Curicó",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 124,
+        "fields": {
+            "codigo": "07302",
+            "comuna": "Hualañé",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 125,
+        "fields": {
+            "codigo": "07303",
+            "comuna": "Licantén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 126,
+        "fields": {
+            "codigo": "07304",
+            "comuna": "Molina",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 127,
+        "fields": {
+            "codigo": "07305",
+            "comuna": "Rauco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 128,
+        "fields": {
+            "codigo": "07306",
+            "comuna": "Romeral",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 129,
+        "fields": {
+            "codigo": "07307",
+            "comuna": "Sagrada Familia",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 130,
+        "fields": {
+            "codigo": "07308",
+            "comuna": "Teno",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 131,
+        "fields": {
+            "codigo": "07309",
+            "comuna": "Vichuquén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 132,
+        "fields": {
+            "codigo": "07401",
+            "comuna": "Linares",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 133,
+        "fields": {
+            "codigo": "07402",
+            "comuna": "Colbún",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 134,
+        "fields": {
+            "codigo": "07403",
+            "comuna": "Longaví",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 135,
+        "fields": {
+            "codigo": "07404",
+            "comuna": "Parral",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 136,
+        "fields": {
+            "codigo": "07405",
+            "comuna": "Retiro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 137,
+        "fields": {
+            "codigo": "07406",
+            "comuna": "San Javier",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 138,
+        "fields": {
+            "codigo": "07407",
+            "comuna": "Villa Alegre",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 139,
+        "fields": {
+            "codigo": "07408",
+            "comuna": "Yerbas Buenas",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 140,
+        "fields": {
+            "codigo": "08101",
+            "comuna": "Concepción",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 141,
+        "fields": {
+            "codigo": "08102",
+            "comuna": "Coronel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 142,
+        "fields": {
+            "codigo": "08103",
+            "comuna": "Chiguayante",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 143,
+        "fields": {
+            "codigo": "08104",
+            "comuna": "Florida",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 144,
+        "fields": {
+            "codigo": "08105",
+            "comuna": "Hualqui",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 145,
+        "fields": {
+            "codigo": "08106",
+            "comuna": "Lota",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 146,
+        "fields": {
+            "codigo": "08107",
+            "comuna": "Penco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 147,
+        "fields": {
+            "codigo": "08108",
+            "comuna": "San Pedro de la Paz",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 148,
+        "fields": {
+            "codigo": "08109",
+            "comuna": "Santa Juana",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 149,
+        "fields": {
+            "codigo": "08110",
+            "comuna": "Talcahuano",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 150,
+        "fields": {
+            "codigo": "08111",
+            "comuna": "Tomé",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 151,
+        "fields": {
+            "codigo": "08112",
+            "comuna": "Hualpén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 152,
+        "fields": {
+            "codigo": "08201",
+            "comuna": "Lebu",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 153,
+        "fields": {
+            "codigo": "08202",
+            "comuna": "Arauco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 154,
+        "fields": {
+            "codigo": "08203",
+            "comuna": "Cañete",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 155,
+        "fields": {
+            "codigo": "08204",
+            "comuna": "Contulmo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 156,
+        "fields": {
+            "codigo": "08205",
+            "comuna": "Curanilahue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 157,
+        "fields": {
+            "codigo": "08206",
+            "comuna": "Los Álamos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 158,
+        "fields": {
+            "codigo": "08207",
+            "comuna": "Tirúa",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 159,
+        "fields": {
+            "codigo": "08301",
+            "comuna": "Los Ángeles",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 160,
+        "fields": {
+            "codigo": "08302",
+            "comuna": "Antuco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 161,
+        "fields": {
+            "codigo": "08303",
+            "comuna": "Cabrero",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 162,
+        "fields": {
+            "codigo": "08304",
+            "comuna": "Laja",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 163,
+        "fields": {
+            "codigo": "08305",
+            "comuna": "Mulchén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 164,
+        "fields": {
+            "codigo": "08306",
+            "comuna": "Nacimiento",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 165,
+        "fields": {
+            "codigo": "08307",
+            "comuna": "Negrete",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 166,
+        "fields": {
+            "codigo": "08308",
+            "comuna": "Quilaco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 167,
+        "fields": {
+            "codigo": "08309",
+            "comuna": "Quilleco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 168,
+        "fields": {
+            "codigo": "08310",
+            "comuna": "San Rosendo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 169,
+        "fields": {
+            "codigo": "08311",
+            "comuna": "Santa Bárbara",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 170,
+        "fields": {
+            "codigo": "08312",
+            "comuna": "Tucapel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 171,
+        "fields": {
+            "codigo": "08313",
+            "comuna": "Yumbel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 172,
+        "fields": {
+            "codigo": "08314",
+            "comuna": "Alto Biobío",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 173,
+        "fields": {
+            "codigo": "09101",
+            "comuna": "Temuco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 174,
+        "fields": {
+            "codigo": "09102",
+            "comuna": "Carahue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 175,
+        "fields": {
+            "codigo": "09103",
+            "comuna": "Cunco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 176,
+        "fields": {
+            "codigo": "09104",
+            "comuna": "Curarrehue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 177,
+        "fields": {
+            "codigo": "09105",
+            "comuna": "Freire",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 178,
+        "fields": {
+            "codigo": "09106",
+            "comuna": "Galvarino",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 179,
+        "fields": {
+            "codigo": "09107",
+            "comuna": "Gorbea",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 180,
+        "fields": {
+            "codigo": "09108",
+            "comuna": "Lautaro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 181,
+        "fields": {
+            "codigo": "09109",
+            "comuna": "Loncoche",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 182,
+        "fields": {
+            "codigo": "09110",
+            "comuna": "Melipeuco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 183,
+        "fields": {
+            "codigo": "09111",
+            "comuna": "Nueva Imperial",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 184,
+        "fields": {
+            "codigo": "09112",
+            "comuna": "Padre Las Casas",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 185,
+        "fields": {
+            "codigo": "09113",
+            "comuna": "Perquenco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 186,
+        "fields": {
+            "codigo": "09114",
+            "comuna": "Pitrufquén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 187,
+        "fields": {
+            "codigo": "09115",
+            "comuna": "Pucón",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 188,
+        "fields": {
+            "codigo": "09116",
+            "comuna": "Saavedra",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 189,
+        "fields": {
+            "codigo": "09117",
+            "comuna": "Teodoro Schmidt",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 190,
+        "fields": {
+            "codigo": "09118",
+            "comuna": "Toltén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 191,
+        "fields": {
+            "codigo": "09119",
+            "comuna": "Vilcún",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 192,
+        "fields": {
+            "codigo": "09120",
+            "comuna": "Villarrica",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 193,
+        "fields": {
+            "codigo": "09201",
+            "comuna": "Angol",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 194,
+        "fields": {
+            "codigo": "09202",
+            "comuna": "Collipulli",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 195,
+        "fields": {
+            "codigo": "09203",
+            "comuna": "Curacautín",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 196,
+        "fields": {
+            "codigo": "09204",
+            "comuna": "Ercilla",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 197,
+        "fields": {
+            "codigo": "09205",
+            "comuna": "Lonquimay",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 198,
+        "fields": {
+            "codigo": "09206",
+            "comuna": "Los Sauces",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 199,
+        "fields": {
+            "codigo": "09207",
+            "comuna": "Lumaco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 200,
+        "fields": {
+            "codigo": "09208",
+            "comuna": "Purén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 201,
+        "fields": {
+            "codigo": "09209",
+            "comuna": "Renaico",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 202,
+        "fields": {
+            "codigo": "09210",
+            "comuna": "Traiguén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 203,
+        "fields": {
+            "codigo": "09211",
+            "comuna": "Victoria",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 204,
+        "fields": {
+            "codigo": "10101",
+            "comuna": "Puerto Montt",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 205,
+        "fields": {
+            "codigo": "10102",
+            "comuna": "Calbuco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 206,
+        "fields": {
+            "codigo": "10103",
+            "comuna": "Cochamó",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 207,
+        "fields": {
+            "codigo": "10104",
+            "comuna": "Fresia",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 208,
+        "fields": {
+            "codigo": "10105",
+            "comuna": "Frutillar",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 209,
+        "fields": {
+            "codigo": "10106",
+            "comuna": "Los Muermos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 210,
+        "fields": {
+            "codigo": "10107",
+            "comuna": "Llanquihue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 211,
+        "fields": {
+            "codigo": "10108",
+            "comuna": "Maullín",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 212,
+        "fields": {
+            "codigo": "10109",
+            "comuna": "Osorno",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 213,
+        "fields": {
+            "codigo": "10110",
+            "comuna": "Puerto Varas",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 214,
+        "fields": {
+            "codigo": "10201",
+            "comuna": "Castro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 215,
+        "fields": {
+            "codigo": "10202",
+            "comuna": "Ancud",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 216,
+        "fields": {
+            "codigo": "10203",
+            "comuna": "Chonchi",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 217,
+        "fields": {
+            "codigo": "10204",
+            "comuna": "Curaco de Vélez",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 218,
+        "fields": {
+            "codigo": "10205",
+            "comuna": "Dalcahue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 219,
+        "fields": {
+            "codigo": "10206",
+            "comuna": "Puqueldón",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 220,
+        "fields": {
+            "codigo": "10207",
+            "comuna": "Queilén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 221,
+        "fields": {
+            "codigo": "10208",
+            "comuna": "Quellón",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 222,
+        "fields": {
+            "codigo": "10209",
+            "comuna": "Quemchi",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 223,
+        "fields": {
+            "codigo": "10210",
+            "comuna": "Quinchao",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 224,
+        "fields": {
+            "codigo": "10301",
+            "comuna": "Osorno",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 225,
+        "fields": {
+            "codigo": "10302",
+            "comuna": "Puerto Octay",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 226,
+        "fields": {
+            "codigo": "10303",
+            "comuna": "Purranque",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 227,
+        "fields": {
+            "codigo": "10304",
+            "comuna": "Puyehue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 228,
+        "fields": {
+            "codigo": "10305",
+            "comuna": "Río Negro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 229,
+        "fields": {
+            "codigo": "10306",
+            "comuna": "San Juan de la Costa",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 230,
+        "fields": {
+            "codigo": "10307",
+            "comuna": "San Pablo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 231,
+        "fields": {
+            "codigo": "10401",
+            "comuna": "Chaitén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 232,
+        "fields": {
+            "codigo": "10402",
+            "comuna": "Futaleufú",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 233,
+        "fields": {
+            "codigo": "10403",
+            "comuna": "Hualaihué",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 234,
+        "fields": {
+            "codigo": "10404",
+            "comuna": "Palena",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 235,
+        "fields": {
+            "codigo": "11101",
+            "comuna": "Coyhaique",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 236,
+        "fields": {
+            "codigo": "11102",
+            "comuna": "Lago Verde",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 237,
+        "fields": {
+            "codigo": "11201",
+            "comuna": "Aysén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 238,
+        "fields": {
+            "codigo": "11202",
+            "comuna": "Cisnes",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 239,
+        "fields": {
+            "codigo": "11203",
+            "comuna": "Guaitecas",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 240,
+        "fields": {
+            "codigo": "11301",
+            "comuna": "Cochrane",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 241,
+        "fields": {
+            "codigo": "11302",
+            "comuna": "O’Higgins",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 242,
+        "fields": {
+            "codigo": "11303",
+            "comuna": "Tortel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 243,
+        "fields": {
+            "codigo": "11401",
+            "comuna": "Chile Chico",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 244,
+        "fields": {
+            "codigo": "11402",
+            "comuna": "Río Ibáñez",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 245,
+        "fields": {
+            "codigo": "12101",
+            "comuna": "Punta Arenas",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 246,
+        "fields": {
+            "codigo": "12102",
+            "comuna": "Laguna Blanca",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 247,
+        "fields": {
+            "codigo": "12103",
+            "comuna": "Río Verde",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 248,
+        "fields": {
+            "codigo": "12104",
+            "comuna": "San Gregorio",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 249,
+        "fields": {
+            "codigo": "12201",
+            "comuna": "Cabo de Hornos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 250,
+        "fields": {
+            "codigo": "12202",
+            "comuna": "Antártica",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 251,
+        "fields": {
+            "codigo": "12301",
+            "comuna": "Porvenir",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 252,
+        "fields": {
+            "codigo": "12302",
+            "comuna": "Primavera",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 253,
+        "fields": {
+            "codigo": "12303",
+            "comuna": "Timaukel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 254,
+        "fields": {
+            "codigo": "12401",
+            "comuna": "Natales",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 255,
+        "fields": {
+            "codigo": "12402",
+            "comuna": "Torres del Paine",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 256,
+        "fields": {
+            "codigo": "13101",
+            "comuna": "Santiago",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 257,
+        "fields": {
+            "codigo": "13102",
+            "comuna": "Cerrillos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 258,
+        "fields": {
+            "codigo": "13103",
+            "comuna": "Conchalí",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 259,
+        "fields": {
+            "codigo": "13104",
+            "comuna": "El Bosque",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 260,
+        "fields": {
+            "codigo": "13105",
+            "comuna": "Estación Central",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 261,
+        "fields": {
+            "codigo": "13106",
+            "comuna": "Huechuraba",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 262,
+        "fields": {
+            "codigo": "13107",
+            "comuna": "Independencia",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 263,
+        "fields": {
+            "codigo": "13108",
+            "comuna": "La Cisterna",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 264,
+        "fields": {
+            "codigo": "13109",
+            "comuna": "La Florida",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 265,
+        "fields": {
+            "codigo": "13110",
+            "comuna": "La Granja",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 266,
+        "fields": {
+            "codigo": "13111",
+            "comuna": "La Pintana",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 267,
+        "fields": {
+            "codigo": "13112",
+            "comuna": "La Reina",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 268,
+        "fields": {
+            "codigo": "13113",
+            "comuna": "Las Condes",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 269,
+        "fields": {
+            "codigo": "13114",
+            "comuna": "Lo Barnechea",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 270,
+        "fields": {
+            "codigo": "13115",
+            "comuna": "Lo Espejo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 271,
+        "fields": {
+            "codigo": "13116",
+            "comuna": "Lo Prado",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 272,
+        "fields": {
+            "codigo": "13117",
+            "comuna": "Macul",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 273,
+        "fields": {
+            "codigo": "13118",
+            "comuna": "Maipú",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 274,
+        "fields": {
+            "codigo": "13119",
+            "comuna": "Ñuñoa",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 275,
+        "fields": {
+            "codigo": "13120",
+            "comuna": "Pedro Aguirre Cerda",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 276,
+        "fields": {
+            "codigo": "13121",
+            "comuna": "Peñalolén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 277,
+        "fields": {
+            "codigo": "13122",
+            "comuna": "Providencia",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 278,
+        "fields": {
+            "codigo": "13123",
+            "comuna": "Pudahuel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 279,
+        "fields": {
+            "codigo": "13124",
+            "comuna": "Quilicura",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 280,
+        "fields": {
+            "codigo": "13125",
+            "comuna": "Quinta Normal",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 281,
+        "fields": {
+            "codigo": "13126",
+            "comuna": "Recoleta",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 282,
+        "fields": {
+            "codigo": "13127",
+            "comuna": "Renca",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 283,
+        "fields": {
+            "codigo": "13128",
+            "comuna": "San Joaquín",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 284,
+        "fields": {
+            "codigo": "13129",
+            "comuna": "San Miguel",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 285,
+        "fields": {
+            "codigo": "13130",
+            "comuna": "San Ramón",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 286,
+        "fields": {
+            "codigo": "13131",
+            "comuna": "Vitacura",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 287,
+        "fields": {
+            "codigo": "13201",
+            "comuna": "Puente Alto",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 288,
+        "fields": {
+            "codigo": "13202",
+            "comuna": "Pirque",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 289,
+        "fields": {
+            "codigo": "13203",
+            "comuna": "San José de Maipo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 290,
+        "fields": {
+            "codigo": "13301",
+            "comuna": "Colina",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 291,
+        "fields": {
+            "codigo": "13302",
+            "comuna": "Lampa",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 292,
+        "fields": {
+            "codigo": "13303",
+            "comuna": "Til-Til",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 293,
+        "fields": {
+            "codigo": "13401",
+            "comuna": "San Bernardo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 294,
+        "fields": {
+            "codigo": "13402",
+            "comuna": "Buin",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 295,
+        "fields": {
+            "codigo": "13403",
+            "comuna": "Calera de Tango",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 296,
+        "fields": {
+            "codigo": "13404",
+            "comuna": "Paine",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 297,
+        "fields": {
+            "codigo": "13501",
+            "comuna": "Melipilla",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 298,
+        "fields": {
+            "codigo": "13502",
+            "comuna": "Alhué",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 299,
+        "fields": {
+            "codigo": "13503",
+            "comuna": "Curacaví",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 300,
+        "fields": {
+            "codigo": "13504",
+            "comuna": "María Pinto",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 301,
+        "fields": {
+            "codigo": "13505",
+            "comuna": "San Pedro",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 302,
+        "fields": {
+            "codigo": "13601",
+            "comuna": "Talagante",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 303,
+        "fields": {
+            "codigo": "13602",
+            "comuna": "El Monte",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 304,
+        "fields": {
+            "codigo": "13603",
+            "comuna": "Isla de Maipo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 305,
+        "fields": {
+            "codigo": "13604",
+            "comuna": "Padre Hurtado",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 306,
+        "fields": {
+            "codigo": "13605",
+            "comuna": "Peñaflor",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 307,
+        "fields": {
+            "codigo": "14101",
+            "comuna": "Valdivia",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 308,
+        "fields": {
+            "codigo": "14102",
+            "comuna": "Corral",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 309,
+        "fields": {
+            "codigo": "14103",
+            "comuna": "Lanco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 310,
+        "fields": {
+            "codigo": "14104",
+            "comuna": "Los Lagos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 311,
+        "fields": {
+            "codigo": "14105",
+            "comuna": "Máfil",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 312,
+        "fields": {
+            "codigo": "14106",
+            "comuna": "Mariquina",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 313,
+        "fields": {
+            "codigo": "14107",
+            "comuna": "Paillaco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 314,
+        "fields": {
+            "codigo": "14108",
+            "comuna": "Panguipulli",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 315,
+        "fields": {
+            "codigo": "14201",
+            "comuna": "La Unión",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 316,
+        "fields": {
+            "codigo": "14202",
+            "comuna": "Futrono",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 317,
+        "fields": {
+            "codigo": "14203",
+            "comuna": "Lago Ranco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 318,
+        "fields": {
+            "codigo": "14204",
+            "comuna": "Río Bueno",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 319,
+        "fields": {
+            "codigo": "15101",
+            "comuna": "Arica",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 320,
+        "fields": {
+            "codigo": "15102",
+            "comuna": "Camarones",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 321,
+        "fields": {
+            "codigo": "15201",
+            "comuna": "Putre",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 322,
+        "fields": {
+            "codigo": "15202",
+            "comuna": "General Lagos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 323,
+        "fields": {
+            "codigo": "16101",
+            "comuna": "Chillán",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 324,
+        "fields": {
+            "codigo": "16102",
+            "comuna": "Bulnes",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 325,
+        "fields": {
+            "codigo": "16103",
+            "comuna": "Cobquecura",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 326,
+        "fields": {
+            "codigo": "16104",
+            "comuna": "Coelemu",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 327,
+        "fields": {
+            "codigo": "16105",
+            "comuna": "Coihueco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 328,
+        "fields": {
+            "codigo": "16106",
+            "comuna": "Chillán Viejo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 329,
+        "fields": {
+            "codigo": "16107",
+            "comuna": "El Carmen",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 330,
+        "fields": {
+            "codigo": "16108",
+            "comuna": "Ninhue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 331,
+        "fields": {
+            "codigo": "16109",
+            "comuna": "Ñiquén",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 332,
+        "fields": {
+            "codigo": "16110",
+            "comuna": "Pemuco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 333,
+        "fields": {
+            "codigo": "16111",
+            "comuna": "Pinto",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 334,
+        "fields": {
+            "codigo": "16112",
+            "comuna": "Portezuelo",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 335,
+        "fields": {
+            "codigo": "16113",
+            "comuna": "Quillón",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 336,
+        "fields": {
+            "codigo": "16114",
+            "comuna": "Quirihue",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 337,
+        "fields": {
+            "codigo": "16115",
+            "comuna": "Ránquil",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 338,
+        "fields": {
+            "codigo": "16116",
+            "comuna": "San Carlos",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 339,
+        "fields": {
+            "codigo": "16117",
+            "comuna": "San Fabián",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 340,
+        "fields": {
+            "codigo": "16118",
+            "comuna": "San Ignacio",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 341,
+        "fields": {
+            "codigo": "16119",
+            "comuna": "San Nicolás",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 342,
+        "fields": {
+            "codigo": "16120",
+            "comuna": "Treguaco",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "nsqk.comuna",
+        "pk": 343,
+        "fields": {
+            "codigo": "16121",
+            "comuna": "Yungay",
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 1,
+        "fields": {
+            "tipo_categoria": "Encuadernación",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 2,
+        "fields": {
+            "tipo_categoria": "Temática",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 3,
+        "fields": {
+            "tipo_categoria": "Literatura",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 4,
+        "fields": {
+            "tipo_categoria": "Consulta y Referencia",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 5,
+        "fields": {
+            "tipo_categoria": "Artístico e Ilustrado",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 6,
+        "fields": {
+            "tipo_categoria": "Divulgativo",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 7,
+        "fields": {
+            "tipo_categoria": "Texto",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 8,
+        "fields": {
+            "tipo_categoria": "Técnico y Especializado",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 9,
+        "fields": {
+            "tipo_categoria": "Práctico o Manual",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 10,
+        "fields": {
+            "tipo_categoria": "Autoayuda y Superación Personal",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 11,
+        "fields": {
+            "tipo_categoria": "Religioso y Sagrado",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.tipocategoria",
+        "pk": 12,
+        "fields": {
+            "tipo_categoria": "Infantil",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 1,
+        "fields": {
+            "id_tipo_categoria": 1,
+            "categoria": "Tapa Dura o Cartoné",
+            "descripcion": "Cubiertas de cartón rígido y resistente, unido al papel del libro mediante el pegado de las guardas.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 2,
+        "fields": {
+            "id_tipo_categoria": 1,
+            "categoria": "Tapa Blanda o Rústica",
+            "descripcion": "Cubiertas de cartón blando o cartulina, adherido al papel mediante encolado o pegado.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 3,
+        "fields": {
+            "id_tipo_categoria": 1,
+            "categoria": "Espiral o Wire-o",
+            "descripcion": "Cubiertas de material flexible, unidas al resto mediante una serie de espirales metálicas o plásticas que juntan el material a través de una serie de agujeros en un extremo.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 4,
+        "fields": {
+            "id_tipo_categoria": 1,
+            "categoria": "Grapados o a Caballete",
+            "descripcion": "Cubiertas son de papel o cartulina, se fijan al resto del libro mediante grapas o broches.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 5,
+        "fields": {
+            "id_tipo_categoria": 1,
+            "categoria": "Electrónicos o Digitales",
+            "descripcion": "No tienen cubiertas, ni encuadernación, pues existen solo como un archivo informático.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 6,
+        "fields": {
+            "id_tipo_categoria": 3,
+            "categoria": "Narrativa",
+            "descripcion": "Un narrador cuenta una historia, ya sea de un modo realista o fantástico, pero siempre ficcional. Cuento, es un relato es breve e intenso. Novela, es un relato largo y enrevesado.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 7,
+        "fields": {
+            "id_tipo_categoria": 3,
+            "categoria": "Poesía",
+            "descripcion": "Un hablante poético describe algún tipo de experiencia amorosa o existencial. Para esto emplea un lenguaje subjetivo, cargado de imágenes y metáforas.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 8,
+        "fields": {
+            "id_tipo_categoria": 3,
+            "categoria": "Dramaturgia",
+            "descripcion": "Se narra una situación a partir de la interacción de los personajes involucrados. Las obras pueden ser representadas teatralmente. Se clasifican de acuerdo al tipo de historia que relatan en tragedias, dramas y comedias",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 9,
+        "fields": {
+            "id_tipo_categoria": 3,
+            "categoria": "Ensayo",
+            "descripcion": "El autor reflexiona libre y subjetivamente sobre un tema, empleando para esto diferentes abordajes temáticos y conceptuales.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 10,
+        "fields": {
+            "id_tipo_categoria": 3,
+            "categoria": "No-Ficción",
+            "descripcion": "Normalmente se aborda subjetivamente alguna historia o tema real, bajo la premisa de apegarse lo más posible a la verdad de los hechos e incurrir de manera controlada en la imaginación.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 11,
+        "fields": {
+            "id_tipo_categoria": 4,
+            "categoria": "Diccionario/Enciclopedia",
+            "descripcion": "Se utilizan para una búsqueda o aclaratoria específica.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 12,
+        "fields": {
+            "id_tipo_categoria": 4,
+            "categoria": "Glosario",
+            "descripcion": "Se utilizan para una búsqueda o aclaratoria específica de un tema particular.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 13,
+        "fields": {
+            "id_tipo_categoria": 4,
+            "categoria": "Atlas/Mapas",
+            "descripcion": "Se utilizan para una búsqueda o aclaratoria específica de mapas del mundo o espaciales.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 14,
+        "fields": {
+            "id_tipo_categoria": 5,
+            "categoria": "Gran Formato",
+            "descripcion": "Abordan un artista, período artístico o momento histórico determinados, junto con textos de algún especialista en la materia.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    },
+    {
+        "model": "biblioteca.categoria",
+        "pk": 15,
+        "fields": {
+            "id_tipo_categoria": 5,
+            "categoria": "cómics, libros álbum y novelas gráficas",
+            "descripcion": "Un autor o un grupo de colaboradores plasman un relato generalmente de ficción, a través de diferentes técnicas de dibujo e ilustración.",
+            "habilitado": true,
+            "updated_at": "2025-09-05T03:13:00Z"
+        }
+    }
+]

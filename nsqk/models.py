@@ -9,7 +9,7 @@ class Nacionalidad(models.Model):
 
 class Autor(models.Model):
     nombre = models.CharField(max_length=250, null=False)
-    pseudonimo = models.CharField(max_length=50, null=True)
+    pseudonimo = models.CharField(max_length=50, blank=True)
     id_nacionalidad = models.ForeignKey(Nacionalidad, on_delete=models.CASCADE)
     bio = models.TextField()
     fecha_nacimiento = models.DateField(auto_now=True)
@@ -17,13 +17,14 @@ class Autor(models.Model):
 class Comuna(models.Model):
     codigo = models.CharField(max_length=5, null=False)
     comuna = models.CharField(max_length=50, null=False)
+    update_at = models.DateTimeField(auto_now=True)
 
 class Direccion(models.Model):
     id_comuna = models.ForeignKey(Comuna, on_delete=models.CASCADE)
-    calle = models.CharField(max_length=50, null=True)
-    numero = models.CharField(max_length=10, null=True)
-    departamento = models.CharField(max_length=10, null=True)
-    detalles = models.TextField(null=True, blank=True)
+    calle = models.CharField(max_length=50, blank=True)
+    numero = models.CharField(max_length=10, blank=True)
+    departamento = models.CharField(max_length=10, blank=True)
+    detalles = models.TextField(blank=True)
 
 class Biblioteca(models.Model):
     nombre = models.CharField(max_length=100, null=False)
