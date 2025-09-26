@@ -1,4 +1,6 @@
-Proyecto Programación Backend
+# BACKEND 171-N4
+GitHub dedicado a la elaboración de evaluación semestral de Programación Backend.
 
-Owner: Iñaki Zárate
-
+Iñaki Zárate
+Estudiante Ingeniería en Informática
+INACAP
