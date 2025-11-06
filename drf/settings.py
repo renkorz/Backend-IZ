@@ -39,8 +39,20 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    
+    # Aplicaciones de terceros
     'rest_framework',
+    'django_filters',
+    'widget_tweaks',
+    
+    # Aplicación local
     'nsqk',
+    
+    # Bootsrap
+    'bootstrap5',
+    
+    # Implementación de documentación API
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
@@ -78,12 +90,12 @@ WSGI_APPLICATION = 'drf.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': config('ENGINE'),
-        'NAME': config('NAME'),
-        'USER': config('USER'),
-        'PASSWORD': config('PASSWORD'),
-        'HOST': config('HOST'),
-        'PORT': config('PORT'),
+        'ENGINE': config('DB_ENGINE'),
+        'NAME': config('DB_NAME'),
+        'USER': config('DB_USER'),
+        'PASSWORD': config('DB_PASSWORD'),
+        'HOST': config('DB_HOST'),
+        'PORT': config('DB_PORT'),
     }
 }
 
@@ -129,3 +141,12 @@ STATICFILES_DIRS = [BASE_DIR / "static",]
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# SESSION expira después de 1 hora
+SESSION_COOKIE_AGE = 3600
+
+# SESSION expira al cerrar el navegador
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+
+# Usamos la DB para SESSION
+SESSION_ENGINE = 'django.contrib.sessions.backends.db'
