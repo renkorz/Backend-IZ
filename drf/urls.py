@@ -42,10 +42,10 @@ urlpatterns = [
     path('nsqk/', include('nsqk.urls')), # URL's para aplicación principal
     
     #URL's vistas de lista
-    path('listado_autores', views.listado_autores, name='listado_autores'),
-    path('listado_comunas', views.listado_comunas, name='listado_lectores'),
-    path('listado_lectores', views.listado_lectores, name='listado_lectres'),
-    path('listado_libros', views.listado_libros, name='lsitado_libros'),
+    # path('listado_autores', views.listado_autores, name='listado_autores'),
+    # path('listado_comunas', views.listado_comunas, name='listado_lectores'),
+    # path('listado_lectores', views.listado_lectores, name='listado_lectres'),
+    # path('listado_libros', views.listado_libros, name='lsitado_libros'),
     
     # URL's para documentación de API
     path('apidocs/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
