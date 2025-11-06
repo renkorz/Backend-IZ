@@ -1,21 +1,20 @@
-{%load static%}
+{% load static %}
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA" content="IE=edge">
-    <title>NSQK</title>
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{% static 'css\bootstrap.css' %}">
+    <title>Inicio | NSQK</title>
+    <link rel="stylesheet" href="{% static 'CSS\bootstrap.css' %}">
 </head>
 <body>
-    <h1>NSQK</h1>
-    <nav>
-        <ul>
-            <li><a href="http://127.0.0.1:8000/admin/">Panel de Admin</a></li>
-            <li><a href="http://127.0.0.1:8000/nsqk/">API</a></li>
-        </ul>
-    </nav>
+    <div class="row">
+        <h1>NSQK</h1>
+        <a href="/admin/">Django Admin</a>
+        <a href="/nsqk/">Rest Framework</a>
+    </div>
+
+    <a href="{% url 'logout' %}">Cerrar Sesión</a>
+
 </body>
 </html>

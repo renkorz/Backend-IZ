@@ -1,6 +1,6 @@
 [
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 1,
         "fields": {
             "pais": "Afganistán",
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 2,
         "fields": {
             "pais": "Albania",
@@ -18,7 +18,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 3,
         "fields": {
             "pais": "Alemania",
@@ -27,7 +27,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 4,
         "fields": {
             "pais": "Andorra",
@@ -36,7 +36,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 5,
         "fields": {
             "pais": "Angola",
@@ -45,7 +45,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 6,
         "fields": {
             "pais": "Anguila",
@@ -54,7 +54,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 7,
         "fields": {
             "pais": "Antigua y Barbuda",
@@ -63,7 +63,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 8,
         "fields": {
             "pais": "Arabia Saudita",
@@ -72,7 +72,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 9,
         "fields": {
             "pais": "Argelia",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 10,
         "fields": {
             "pais": "Argentina",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 11,
         "fields": {
             "pais": "Armenia",
@@ -99,7 +99,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 12,
         "fields": {
             "pais": "Aruba",
@@ -108,7 +108,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 13,
         "fields": {
             "pais": "Australia",
@@ -117,7 +117,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 14,
         "fields": {
             "pais": "Austria",
@@ -126,7 +126,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 15,
         "fields": {
             "pais": "Azerbaiyán",
@@ -135,7 +135,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 16,
         "fields": {
             "pais": "Bahamas",
@@ -144,7 +144,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 17,
         "fields": {
             "pais": "Bangladés",
@@ -153,7 +153,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 18,
         "fields": {
             "pais": "Barbados",
@@ -162,7 +162,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 19,
         "fields": {
             "pais": "Baréin",
@@ -171,7 +171,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 20,
         "fields": {
             "pais": "Bélgica",
@@ -180,7 +180,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 21,
         "fields": {
             "pais": "Belice",
@@ -189,7 +189,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 22,
         "fields": {
             "pais": "Benín",
@@ -198,7 +198,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 23,
         "fields": {
             "pais": "Bermudas",
@@ -207,7 +207,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 24,
         "fields": {
             "pais": "Bielorrusia",
@@ -216,7 +216,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 25,
         "fields": {
             "pais": "Estado Plurinacional de Bolivia",
@@ -225,7 +225,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 26,
         "fields": {
             "pais": "Bosnia y Herzegovina",
@@ -234,7 +234,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 27,
         "fields": {
             "pais": "Botsuana",
@@ -243,7 +243,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 28,
         "fields": {
             "pais": "Brasil",
@@ -252,7 +252,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 29,
         "fields": {
             "pais": "Brunéi Darussalam",
@@ -261,7 +261,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 30,
         "fields": {
             "pais": "Bulgaria",
@@ -270,7 +270,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 31,
         "fields": {
             "pais": "Burkina Faso",
@@ -279,7 +279,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 32,
         "fields": {
             "pais": "Burundi",
@@ -288,7 +288,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 33,
         "fields": {
             "pais": "Bután",
@@ -297,7 +297,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 34,
         "fields": {
             "pais": "Cabo Verde",
@@ -306,7 +306,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 35,
         "fields": {
             "pais": "Camboya",
@@ -315,7 +315,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 36,
         "fields": {
             "pais": "Camerún",
@@ -324,7 +324,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 37,
         "fields": {
             "pais": "Canadá",
@@ -333,7 +333,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 38,
         "fields": {
             "pais": "Chad",
@@ -342,7 +342,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 39,
         "fields": {
             "pais": "Chile",
@@ -351,7 +351,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 40,
         "fields": {
             "pais": "República Popular China",
@@ -360,7 +360,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 41,
         "fields": {
             "pais": "Chipre",
@@ -369,7 +369,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 42,
         "fields": {
             "pais": "Colombia",
@@ -378,7 +378,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 43,
         "fields": {
             "pais": "Comoras",
@@ -387,7 +387,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 44,
         "fields": {
             "pais": "La República Democrática del Congo",
@@ -396,7 +396,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 45,
         "fields": {
             "pais": "Congo",
@@ -405,7 +405,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 46,
         "fields": {
             "pais": "República de Corea",
@@ -414,7 +414,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 47,
         "fields": {
             "pais": "República Democrática Popular de Corea",
@@ -423,7 +423,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 48,
         "fields": {
             "pais": "Costa de Marfil",
@@ -432,7 +432,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 49,
         "fields": {
             "pais": "Costa Rica",
@@ -441,7 +441,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 50,
         "fields": {
             "pais": "Croacia",
@@ -450,7 +450,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 51,
         "fields": {
             "pais": "Cuba",
@@ -459,7 +459,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 52,
         "fields": {
             "pais": "Curazao",
@@ -468,7 +468,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 53,
         "fields": {
             "pais": "Dinamarca",
@@ -477,7 +477,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 54,
         "fields": {
             "pais": "Dominica",
@@ -486,7 +486,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 55,
         "fields": {
             "pais": "Ecuador",
@@ -495,7 +495,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 56,
         "fields": {
             "pais": "Egipto",
@@ -504,7 +504,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 57,
         "fields": {
             "pais": "El Salvador",
@@ -513,7 +513,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 58,
         "fields": {
             "pais": "Emiratos Árabes Unidos",
@@ -522,7 +522,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 59,
         "fields": {
             "pais": "Eritrea",
@@ -531,7 +531,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 60,
         "fields": {
             "pais": "Eslovaquia",
@@ -540,7 +540,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 61,
         "fields": {
             "pais": "Eslovenia",
@@ -549,7 +549,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 62,
         "fields": {
             "pais": "España",
@@ -558,7 +558,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 63,
         "fields": {
             "pais": "Estados Unidos",
@@ -567,7 +567,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 64,
         "fields": {
             "pais": "Estonia",
@@ -576,7 +576,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 65,
         "fields": {
             "pais": "Etiopía",
@@ -585,7 +585,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 66,
         "fields": {
             "pais": "Federacion Rusa",
@@ -594,7 +594,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 67,
         "fields": {
             "pais": "Filipinas",
@@ -603,7 +603,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 68,
         "fields": {
             "pais": "Finlandia",
@@ -612,7 +612,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 69,
         "fields": {
             "pais": "Fiyi",
@@ -621,7 +621,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 70,
         "fields": {
             "pais": "Francia",
@@ -630,7 +630,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 71,
         "fields": {
             "pais": "Gabón",
@@ -639,7 +639,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 72,
         "fields": {
             "pais": "Gambia",
@@ -648,7 +648,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 73,
         "fields": {
             "pais": "Georgia",
@@ -657,7 +657,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 74,
         "fields": {
             "pais": "Ghana",
@@ -666,7 +666,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 75,
         "fields": {
             "pais": "Gibraltar",
@@ -675,7 +675,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 76,
         "fields": {
             "pais": "Granada",
@@ -684,7 +684,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 77,
         "fields": {
             "pais": "Grecia",
@@ -693,7 +693,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 78,
         "fields": {
             "pais": "Groenlandia",
@@ -702,7 +702,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 79,
         "fields": {
             "pais": "Guadalupe",
@@ -711,7 +711,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 80,
         "fields": {
             "pais": "Guam",
@@ -720,7 +720,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 81,
         "fields": {
             "pais": "Guatemala",
@@ -729,7 +729,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 82,
         "fields": {
             "pais": "Guayana Francesa",
@@ -738,7 +738,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 83,
         "fields": {
             "pais": "Guernsey",
@@ -747,7 +747,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 84,
         "fields": {
             "pais": "Guinea-Bisáu",
@@ -756,7 +756,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 85,
         "fields": {
             "pais": "Guinea Ecuatorial",
@@ -765,7 +765,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 86,
         "fields": {
             "pais": "Guinea",
@@ -774,7 +774,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 87,
         "fields": {
             "pais": "Guyana",
@@ -783,7 +783,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 88,
         "fields": {
             "pais": "Haití",
@@ -792,7 +792,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 89,
         "fields": {
             "pais": "Honduras",
@@ -801,7 +801,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 90,
         "fields": {
             "pais": "Hong Kong",
@@ -810,7 +810,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 91,
         "fields": {
             "pais": "Hungría",
@@ -819,7 +819,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 92,
         "fields": {
             "pais": "India",
@@ -828,7 +828,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 93,
         "fields": {
             "pais": "Indonesia",
@@ -837,7 +837,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 94,
         "fields": {
             "pais": "Irak",
@@ -846,7 +846,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 95,
         "fields": {
             "pais": "República Islámica de Irán",
@@ -855,7 +855,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 96,
         "fields": {
             "pais": "Irlanda",
@@ -864,7 +864,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 97,
         "fields": {
             "pais": "Isla de Man",
@@ -873,7 +873,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 98,
         "fields": {
             "pais": "Isla de Navidad",
@@ -882,7 +882,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 99,
         "fields": {
             "pais": "Isla Norfolk",
@@ -891,7 +891,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 100,
         "fields": {
             "pais": "Islandia",
@@ -900,7 +900,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 101,
         "fields": {
             "pais": "Islas Åland",
@@ -909,7 +909,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 102,
         "fields": {
             "pais": "Islas Caimán",
@@ -918,7 +918,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 103,
         "fields": {
             "pais": "Islas Cocos (Keeling)",
@@ -927,7 +927,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 104,
         "fields": {
             "pais": "Islas Cook",
@@ -936,7 +936,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 105,
         "fields": {
             "pais": "Islas Falkland (Malvinas)",
@@ -945,7 +945,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 106,
         "fields": {
             "pais": "Islas Feroe",
@@ -954,7 +954,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 107,
         "fields": {
             "pais": "Islas Marianas del Norte",
@@ -963,7 +963,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 108,
         "fields": {
             "pais": "Islas Marshall",
@@ -972,7 +972,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 109,
         "fields": {
             "pais": "Islas Salomón",
@@ -981,7 +981,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 110,
         "fields": {
             "pais": "Islas Turcas y Caicos",
@@ -990,7 +990,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 111,
         "fields": {
             "pais": "Islas Ultramarinas Menores de Estados Unidos",
@@ -999,7 +999,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 112,
         "fields": {
             "pais": "Islas Virgenes Británicas",
@@ -1008,7 +1008,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 113,
         "fields": {
             "pais": "Islas Virgenes de Los Estados Unidos",
@@ -1017,7 +1017,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 114,
         "fields": {
             "pais": "Israel",
@@ -1026,7 +1026,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 115,
         "fields": {
             "pais": "Italia",
@@ -1035,7 +1035,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 116,
         "fields": {
             "pais": "Jamaica",
@@ -1044,7 +1044,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 117,
         "fields": {
             "pais": "Japón",
@@ -1053,7 +1053,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 118,
         "fields": {
             "pais": "Jersey",
@@ -1062,7 +1062,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 119,
         "fields": {
             "pais": "Jordania",
@@ -1071,7 +1071,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 120,
         "fields": {
             "pais": "Kazajistán",
@@ -1080,7 +1080,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 121,
         "fields": {
             "pais": "Kenia",
@@ -1089,7 +1089,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 122,
         "fields": {
             "pais": "Kirguistán",
@@ -1098,7 +1098,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 123,
         "fields": {
             "pais": "Kiribati",
@@ -1107,7 +1107,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 124,
         "fields": {
             "pais": "Kuwait",
@@ -1116,7 +1116,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 125,
         "fields": {
             "pais": "Lesoto",
@@ -1125,7 +1125,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 126,
         "fields": {
             "pais": "Letonia",
@@ -1134,7 +1134,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 127,
         "fields": {
             "pais": "Líbano",
@@ -1143,7 +1143,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 128,
         "fields": {
             "pais": "Liberia",
@@ -1152,7 +1152,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 129,
         "fields": {
             "pais": "Libia",
@@ -1161,7 +1161,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 130,
         "fields": {
             "pais": "Liechtenstein",
@@ -1170,7 +1170,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 131,
         "fields": {
             "pais": "Lituania",
@@ -1179,7 +1179,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 132,
         "fields": {
             "pais": "Luxemburgo",
@@ -1188,7 +1188,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 133,
         "fields": {
             "pais": "Macao",
@@ -1197,7 +1197,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 134,
         "fields": {
             "pais": "La Antigua República Yugoslava de Macedonia",
@@ -1206,7 +1206,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 135,
         "fields": {
             "pais": "Madagascar",
@@ -1215,7 +1215,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 136,
         "fields": {
             "pais": "Malasia",
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 137,
         "fields": {
             "pais": "Malaui",
@@ -1233,7 +1233,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 138,
         "fields": {
             "pais": "Maldivas",
@@ -1242,7 +1242,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 139,
         "fields": {
             "pais": "Malí",
@@ -1251,7 +1251,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 140,
         "fields": {
             "pais": "Malta",
@@ -1260,7 +1260,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 141,
         "fields": {
             "pais": "Marruecos",
@@ -1269,7 +1269,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 142,
         "fields": {
             "pais": "Martinica",
@@ -1278,7 +1278,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 143,
         "fields": {
             "pais": "Mauricio",
@@ -1287,7 +1287,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 144,
         "fields": {
             "pais": "Mauritania",
@@ -1296,7 +1296,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 145,
         "fields": {
             "pais": "Mayotte",
@@ -1305,7 +1305,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 146,
         "fields": {
             "pais": "México",
@@ -1314,7 +1314,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 147,
         "fields": {
             "pais": "Estados Federados de Micronesia",
@@ -1323,7 +1323,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 148,
         "fields": {
             "pais": "República de Moldavia",
@@ -1332,7 +1332,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 149,
         "fields": {
             "pais": "Mónaco",
@@ -1341,7 +1341,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 150,
         "fields": {
             "pais": "Mongolia",
@@ -1350,7 +1350,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 151,
         "fields": {
             "pais": "Montenegro",
@@ -1359,7 +1359,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 152,
         "fields": {
             "pais": "Montserrat",
@@ -1368,7 +1368,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 153,
         "fields": {
             "pais": "Mozambique",
@@ -1377,7 +1377,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 154,
         "fields": {
             "pais": "Myanmar",
@@ -1386,7 +1386,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 155,
         "fields": {
             "pais": "Namibia",
@@ -1395,7 +1395,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 156,
         "fields": {
             "pais": "Nauru",
@@ -1404,7 +1404,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 157,
         "fields": {
             "pais": "Nepal",
@@ -1413,7 +1413,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 158,
         "fields": {
             "pais": "Nicaragua",
@@ -1422,7 +1422,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 159,
         "fields": {
             "pais": "Nigeria",
@@ -1431,7 +1431,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 160,
         "fields": {
             "pais": "Níger",
@@ -1440,7 +1440,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 161,
         "fields": {
             "pais": "Niue",
@@ -1449,7 +1449,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 162,
         "fields": {
             "pais": "Noruega",
@@ -1458,7 +1458,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 163,
         "fields": {
             "pais": "Nueva Caledonia",
@@ -1467,7 +1467,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 164,
         "fields": {
             "pais": "Nueva Zelanda",
@@ -1476,7 +1476,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 165,
         "fields": {
             "pais": "Omán",
@@ -1485,7 +1485,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 166,
         "fields": {
             "pais": "Holanda/Países Bajos",
@@ -1494,7 +1494,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 167,
         "fields": {
             "pais": "Pakistán",
@@ -1503,7 +1503,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 168,
         "fields": {
             "pais": "Palaos",
@@ -1512,7 +1512,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 169,
         "fields": {
             "pais": "Estado de Palestina",
@@ -1521,7 +1521,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 170,
         "fields": {
             "pais": "Panamá",
@@ -1530,7 +1530,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 171,
         "fields": {
             "pais": "Papúa Nueva Guinea",
@@ -1539,7 +1539,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 172,
         "fields": {
             "pais": "Paraguay",
@@ -1548,7 +1548,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 173,
         "fields": {
             "pais": "Perú",
@@ -1557,7 +1557,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 174,
         "fields": {
             "pais": "Pitcairn",
@@ -1566,7 +1566,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 175,
         "fields": {
             "pais": "Polinesia Francesa",
@@ -1575,7 +1575,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 176,
         "fields": {
             "pais": "Polonia",
@@ -1584,7 +1584,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 177,
         "fields": {
             "pais": "Portugal",
@@ -1593,7 +1593,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 178,
         "fields": {
             "pais": "Puerto Rico",
@@ -1602,7 +1602,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 179,
         "fields": {
             "pais": "Qatar",
@@ -1611,7 +1611,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 180,
         "fields": {
             "pais": "Reino Unido",
@@ -1620,7 +1620,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 181,
         "fields": {
             "pais": "República Centroafricana",
@@ -1629,7 +1629,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 182,
         "fields": {
             "pais": "República Checa",
@@ -1638,7 +1638,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 183,
         "fields": {
             "pais": "República Democrática Popular Lao",
@@ -1647,7 +1647,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 184,
         "fields": {
             "pais": "República Dominicana",
@@ -1656,7 +1656,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 185,
         "fields": {
             "pais": "Reunión",
@@ -1665,7 +1665,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 186,
         "fields": {
             "pais": "Ruanda",
@@ -1674,7 +1674,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 187,
         "fields": {
             "pais": "Rumania",
@@ -1683,7 +1683,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 188,
         "fields": {
             "pais": "Sahara Occidental",
@@ -1692,7 +1692,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 189,
         "fields": {
             "pais": "Samoa Americana",
@@ -1701,7 +1701,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 190,
         "fields": {
             "pais": "Samoa",
@@ -1710,7 +1710,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 191,
         "fields": {
             "pais": "San Bartolomé",
@@ -1719,7 +1719,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 192,
         "fields": {
             "pais": "San Cristóbal y Nieves",
@@ -1728,7 +1728,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 193,
         "fields": {
             "pais": "San Marino",
@@ -1737,7 +1737,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 194,
         "fields": {
             "pais": "San Martín (Parte Francesa)",
@@ -1746,7 +1746,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 195,
         "fields": {
             "pais": "San Pedro y Miquelón",
@@ -1755,7 +1755,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 196,
         "fields": {
             "pais": "San Vicente y Las Granadinas",
@@ -1764,7 +1764,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 197,
         "fields": {
             "pais": "Ascensión y Tristán de Acuña Santa Helena",
@@ -1773,7 +1773,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 198,
         "fields": {
             "pais": "Santa Lucía",
@@ -1782,7 +1782,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 199,
         "fields": {
             "pais": "Santa Sede (Ciudad Estado Vaticano)",
@@ -1791,7 +1791,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 200,
         "fields": {
             "pais": "Santo Tomé y Principe",
@@ -1800,7 +1800,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 201,
         "fields": {
             "pais": "Senegal",
@@ -1809,7 +1809,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 202,
         "fields": {
             "pais": "Serbia",
@@ -1818,7 +1818,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 203,
         "fields": {
             "pais": "Seychelles",
@@ -1827,7 +1827,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 204,
         "fields": {
             "pais": "Sierra Leona",
@@ -1836,7 +1836,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 205,
         "fields": {
             "pais": "Singapur",
@@ -1845,7 +1845,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 206,
         "fields": {
             "pais": "Sint Maarten (Parte Neerlandesa)",
@@ -1854,7 +1854,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 207,
         "fields": {
             "pais": "República Arabe de Siria",
@@ -1863,7 +1863,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 208,
         "fields": {
             "pais": "Somalia",
@@ -1872,7 +1872,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 209,
         "fields": {
             "pais": "Sri Lanka",
@@ -1881,7 +1881,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 210,
         "fields": {
             "pais": "Suazilandia",
@@ -1890,7 +1890,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 211,
         "fields": {
             "pais": "Sudáfrica",
@@ -1899,7 +1899,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 212,
         "fields": {
             "pais": "Sudán del Sur",
@@ -1908,7 +1908,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 213,
         "fields": {
             "pais": "Sudán",
@@ -1917,7 +1917,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 214,
         "fields": {
             "pais": "Suecia",
@@ -1926,7 +1926,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 215,
         "fields": {
             "pais": "Suiza",
@@ -1935,7 +1935,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 216,
         "fields": {
             "pais": "Surinam",
@@ -1944,7 +1944,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 217,
         "fields": {
             "pais": "Svalbard y Jan Mayen",
@@ -1953,7 +1953,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 218,
         "fields": {
             "pais": "Tailandia",
@@ -1962,7 +1962,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 219,
         "fields": {
             "pais": "Provincia de China Taiwán",
@@ -1971,7 +1971,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 220,
         "fields": {
             "pais": "República Unida de Tanzania",
@@ -1980,7 +1980,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 221,
         "fields": {
             "pais": "Tayikistán",
@@ -1989,7 +1989,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 222,
         "fields": {
             "pais": "Territorio Británico del Océano Índico",
@@ -1998,7 +1998,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 223,
         "fields": {
             "pais": "Timor-Leste",
@@ -2007,7 +2007,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 224,
         "fields": {
             "pais": "Togo",
@@ -2016,7 +2016,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 225,
         "fields": {
             "pais": "Tokelau",
@@ -2025,7 +2025,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 226,
         "fields": {
             "pais": "Tonga",
@@ -2034,7 +2034,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 227,
         "fields": {
             "pais": "Trinidad y Tobago",
@@ -2043,7 +2043,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 228,
         "fields": {
             "pais": "Túnez",
@@ -2052,7 +2052,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 229,
         "fields": {
             "pais": "Turkmenistán",
@@ -2061,7 +2061,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 230,
         "fields": {
             "pais": "Turquía",
@@ -2070,7 +2070,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 231,
         "fields": {
             "pais": "Tuvalu",
@@ -2079,7 +2079,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 232,
         "fields": {
             "pais": "Ucrania",
@@ -2088,7 +2088,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 233,
         "fields": {
             "pais": "Uganda",
@@ -2097,7 +2097,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 234,
         "fields": {
             "pais": "Uruguay",
@@ -2106,7 +2106,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 235,
         "fields": {
             "pais": "Uzbekistán",
@@ -2115,7 +2115,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 236,
         "fields": {
             "pais": "Vanuatu",
@@ -2124,7 +2124,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 237,
         "fields": {
             "pais": "República Bolivariana de Venezuela",
@@ -2133,7 +2133,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 238,
         "fields": {
             "pais": "Viet Nam",
@@ -2142,7 +2142,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 239,
         "fields": {
             "pais": "Wallis y Futuna",
@@ -2151,7 +2151,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 240,
         "fields": {
             "pais": "Yemen",
@@ -2160,7 +2160,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 241,
         "fields": {
             "pais": "Yibuti",
@@ -2169,7 +2169,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 242,
         "fields": {
             "pais": "Zambia",
@@ -2178,7 +2178,7 @@
         }
     },
     {
-        "model": "biblioteca.nacionalidad",
+        "model": "nsqk.nacionalidad",
         "pk": 243,
         "fields": {
             "pais": "Zimbabue",

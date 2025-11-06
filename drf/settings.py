@@ -150,3 +150,7 @@ SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
 # Usamos la DB para SESSION
 SESSION_ENGINE = 'django.contrib.sessions.backends.db'
+
+#TESTS
+LOGIN_REDIRECT_URL = 'pagina_inicio'
+LOGOUT_REDIRECT_URL = 'pagina_inicio'

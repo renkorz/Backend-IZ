@@ -1,6 +1,6 @@
 [
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 1,
         "fields": {
             "tipo_categoria": "Encuadernación",
@@ -9,7 +9,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 2,
         "fields": {
             "tipo_categoria": "Literatura",
@@ -18,7 +18,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 3,
         "fields": {
             "tipo_categoria": "Consulta y Referencia",
@@ -27,7 +27,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 4,
         "fields": {
             "tipo_categoria": "Artístico e Ilustrado",
@@ -36,7 +36,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 5,
         "fields": {
             "tipo_categoria": "Divulgativo",
@@ -45,7 +45,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 6,
         "fields": {
             "tipo_categoria": "Texto",
@@ -54,7 +54,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 7,
         "fields": {
             "tipo_categoria": "Técnico y Especializado",
@@ -63,7 +63,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 8,
         "fields": {
             "tipo_categoria": "Práctico o Manual",
@@ -72,7 +72,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 9,
         "fields": {
             "tipo_categoria": "Autoayuda y Superación Personal",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 10,
         "fields": {
             "tipo_categoria": "Religioso y Sagrado",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "model": "biblioteca.tipocategoria",
+        "model": "nsqk.tipocategoria",
         "pk": 11,
         "fields": {
             "tipo_categoria": "Infantil",

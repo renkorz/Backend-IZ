@@ -1,6 +1,6 @@
 [
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 1,
         "fields": {
             "id_tipo_categoria": 1,
@@ -11,7 +11,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 2,
         "fields": {
             "id_tipo_categoria": 1,
@@ -22,7 +22,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 3,
         "fields": {
             "id_tipo_categoria": 1,
@@ -33,7 +33,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 4,
         "fields": {
             "id_tipo_categoria": 1,
@@ -44,7 +44,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 5,
         "fields": {
             "id_tipo_categoria": 1,
@@ -55,7 +55,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 6,
         "fields": {
             "id_tipo_categoria": 2,
@@ -66,7 +66,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 7,
         "fields": {
             "id_tipo_categoria": 2,
@@ -77,7 +77,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 8,
         "fields": {
             "id_tipo_categoria": 2,
@@ -88,7 +88,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 9,
         "fields": {
             "id_tipo_categoria": 2,
@@ -99,7 +99,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 10,
         "fields": {
             "id_tipo_categoria": 2,
@@ -110,7 +110,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 11,
         "fields": {
             "id_tipo_categoria": 3,
@@ -121,7 +121,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 12,
         "fields": {
             "id_tipo_categoria": 3,
@@ -132,7 +132,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 13,
         "fields": {
             "id_tipo_categoria": 3,
@@ -143,7 +143,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 14,
         "fields": {
             "id_tipo_categoria": 4,
@@ -154,7 +154,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 15,
         "fields": {
             "id_tipo_categoria": 4,
@@ -165,7 +165,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 16,
         "fields": {
             "id_tipo_categoria": 5,
@@ -176,7 +176,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 17,
         "fields": {
             "id_tipo_categoria": 5,
@@ -187,7 +187,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 18,
         "fields": {
             "id_tipo_categoria": 5,
@@ -198,7 +198,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 19,
         "fields": {
             "id_tipo_categoria": 5,
@@ -209,7 +209,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 20,
         "fields": {
             "id_tipo_categoria": 6,
@@ -220,7 +220,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 21,
         "fields": {
             "id_tipo_categoria": 7,
@@ -231,7 +231,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 22,
         "fields": {
             "id_tipo_categoria": 8,
@@ -242,7 +242,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 23,
         "fields": {
             "id_tipo_categoria": 9,
@@ -253,7 +253,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 24,
         "fields": {
             "id_tipo_categoria": 10,
@@ -264,7 +264,7 @@
         }
     },
     {
-        "model": "biblioteca.categoria",
+        "model": "nsqk.categoria",
         "pk": 25,
         "fields": {
             "id_tipo_categoria": 11,
