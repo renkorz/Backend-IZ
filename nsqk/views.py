@@ -37,7 +37,7 @@ def pagina_inicio(request):
     mensaje_bienvenida = request.session.get('mensaje_bienvenida') # Obetener informacion desde la sesión
     if 'mensaje_bienvenida' in request.session: # Remover información en sesión
         del request.session['mensaje_bienvenida']
-    return render(request, 'nsqk/base.html', {'message': mensaje_bienvenida})
+    return render(request, 'home/base.html', {'message': mensaje_bienvenida})
         
 
 class NacionalidadViewSet(viewsets.ModelViewSet):
