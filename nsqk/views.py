@@ -40,6 +40,10 @@ def pagina_inicio(request):
     return render(request, 'home/base.html', {'message': mensaje_bienvenida})
         
 
+#---------------------------------------
+#           VISTAS GENERALES
+#---------------------------------------
+
 class NacionalidadViewSet(viewsets.ModelViewSet):
     authentication_classes = [SessionAuthentication]
     permission_classes = [IsAuthenticated]
